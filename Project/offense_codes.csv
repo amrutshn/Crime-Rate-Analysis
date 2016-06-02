@@ -1,0 +1,300 @@
+OFFENSE_ID,OFFENSE_CODE,OFFENSE_CODE_EXTENSION,OFFENSE_TYPE_ID,OFFENSE_TYPE_NAME,OFFENSE_CATEGORY_ID,OFFENSE_CATEGORY_NAME,IS_CRIME,IS_TRAFFIC
+1,199,0,sovereign-treason-viol,Treason,all-other-crimes,All Other Crimes,1,0
+2,399,0,immigration-violations,Immigration violation,all-other-crimes,All Other Crimes,1,0
+3,902,0,homicide-family,Homicide by a family member,murder,Murder,1,0
+4,903,0,hom-willful-kill-non-family-gu,Homicide by a stranger w/gun,murder,Murder,1,0
+5,904,0,hom-willful-kill-nonfam-wp,Homicide by a stranger w/weapon,murder,Murder,1,0
+6,907,0,homicide-police-by-gun,Homicide of a Police Officer w/gun,murder,Murder,1,0
+7,908,0,homicide-police-weapon,Homicide of a Police Officer w/weapon,murder,Murder,1,0
+8,910,0,homicide-negligent,Homicide by negligence,murder,Murder,1,0
+9,911,0,hom-wilful-kill-gun,Homicide by gun,murder,Murder,1,0
+10,912,0,homicide-other,Homicide by other means,murder,Murder,1,0
+11,1003,0,kidnap-minor-to-sex-aslt,Kidnap minor to sexually assault,all-other-crimes,All Other Crimes,1,0
+12,1004,0,kidnap-adult-to-sex-aslt,Kidnap adult to sexually assault,all-other-crimes,All Other Crimes,1,0
+13,1005,0,kidnap-juvenile-victim,Kidnap a minor,all-other-crimes,All Other Crimes,1,0
+229,1006,0,kidnap-adult-victim,Kidnap an adult,all-other-crimes,All Other Crimes,1,0
+14,1006,1,kidnap-dv,Domestic violence kidnapping,all-other-crimes,All Other Crimes,1,0
+15,1008,0,kidnap-abduct-no-ransom-aslt,Abduction without ransom or assault,all-other-crimes,All Other Crimes,1,0
+16,1009,0,kidnap-hijack-aircraft,Hijack an aircraft,all-other-crimes,All Other Crimes,1,0
+17,1010,0,kidnap-parental,Kidnapping by parent,all-other-crimes,All Other Crimes,1,0
+18,1011,0,kidnap-minor-nonparental,Kidnapping of a minor by non-parent,all-other-crimes,All Other Crimes,1,0
+19,1099,0,false-imprisonment,False Imprisonment,all-other-crimes,All Other Crimes,1,0
+20,1101,0,sex-aslt-gun,"Rape, perpetrator had a gun",sexual-assault,Sexual Assault,1,0
+230,1102,0,sex-aslt-rape,Rape,sexual-assault,Sexual Assault,1,0
+21,1102,1,sex-aslt-rape-pot,Rape by a person in a position of trust,sexual-assault,Sexual Assault,1,0
+22,1103,0,sex-aslt-strong-arm,Rape using the threat of violence,sexual-assault,Sexual Assault,1,0
+231,1109,0,sex-aslt-non-rape,Unlawful sexual contact ,sexual-assault,Sexual Assault,1,0
+23,1109,1,sex-aslt-non-rape-pot,Unlawful sexual contact,sexual-assault,Sexual Assault,1,0
+24,1112,0,sex-asslt-sodomy-boy-strng-arm,Sodomy of a male juvenile using bodily force,sexual-assault,Sexual Assault,1,0
+25,1113,0,sex-asslt-sodomy-man-strng-arm,Sodomy of an adult male using bodily force,sexual-assault,Sexual Assault,1,0
+26,1114,0,sex-asslt-sodomy-girl-strg-arm,Sodomy of a female juvenile using bodily force,sexual-assault,Sexual Assault,1,0
+27,1115,0,sex-asslt-sodomy-woman-str-arm,Sodomy of an adult female using bodily force,sexual-assault,Sexual Assault,1,0
+232,1116,0,sex-aslt-statutory-rape,Statutory rape,other-crimes-against-persons,Other Crimes Against Persons,1,0
+28,1116,1,sex-aslt-statutory-rape-pot,Statutory rape by a person in a position of trust,other-crimes-against-persons,Other Crimes Against Persons,1,0
+233,1199,0,sex-aslt-w-object,Sexual assault with an object,sexual-assault,Sexual Assault,1,0
+29,1199,1,sex-aslt-w-object-pot,Sexual assault w/object by a person in a position of trust,sexual-assault,Sexual Assault,1,0
+30,1201,0,robbery-business-gun,Robbery of a business using a gun,robbery,Robbery,1,0
+31,1202,0,robbery-business,Robbery of a business using a weapon,robbery,Robbery,1,0
+32,1203,0,robbery-busn-strong-arm,Robbery of a business using bodily force,robbery,Robbery,1,0
+33,1204,0,robbery-street-gun,Robbery of a person in the open using a gun,robbery,Robbery,1,0
+34,1205,0,robbery-street,Robbery of a person in the open,robbery,Robbery,1,0
+35,1206,0,robbery-street-strong-arm,Robbery of a person in the open using bodily force,robbery,Robbery,1,0
+36,1207,0,robbery-residence-gun,Robbery of a person in a residence using a gun,robbery,Robbery,1,0
+37,1208,0,robbery-residence,Robbery of a person in a residence,robbery,Robbery,1,0
+38,1209,0,robbery-resd-strong-arm,Robbery of a person in a residence using bodily force,robbery,Robbery,1,0
+39,1210,0,robbery-purse-snatch-w-force,Forcible Purse Snatching,robbery,Robbery,1,0
+40,1211,0,robbery-bank,Robbery of a bank,robbery,Robbery,1,0
+41,1212,0,robbery-car-jacking,Carjacking - armed,robbery,Robbery,1,0
+42,1299,0,robbery-other,Robbery - remarks,robbery,Robbery,1,0
+43,1301,0,aslt-agg-family-gun,Assault causing serious bodily injury by a family member using a gun,aggravated-assault,Aggravated Assault,1,0
+44,1302,0,aslt-agg-family-weapon,Assault causing serious bodily injury by a family member using a weapon,aggravated-assault,Aggravated Assault,1,0
+45,1303,0,agg-aslt-strong-arm-dv,Assault causing serious bodily injury using bodily force - domestic violence,aggravated-assault,Aggravated Assault,1,0
+46,1304,0,aslt-agg-non-family-gun,Assault causing serious bodily injury by a stranger using a gun,aggravated-assault,Aggravated Assault,1,0
+47,1305,0,aslt-agg-non-family-weapon,Assault causing serious bodily injury by a stranger using a weapon,aggravated-assault,Aggravated Assault,1,0
+48,1306,0,agg-aslt-strong-arm-nonfam,Assault causing serious bodily injury by a stranger using bodily force,aggravated-assault,Aggravated Assault,1,0
+49,1310,0,aslt-agg-police-gun,Assault causing serious bodily injury of a police officer using a gun,all-other-crimes,All Other Crimes,1,0
+50,1311,0,agg-aslt-police-weapon,Assault causing serious bodily injury of a police officer using a weapon,all-other-crimes,All Other Crimes,1,0
+51,1312,0,agg-aslt-police-ofc-stng-arm,Assault causing serious bodily injury of a police officer using bodily force,all-other-crimes,All Other Crimes,1,0
+234,1313,0,assault-simple,Assault causing minor bodily injury,other-crimes-against-persons,Other Crimes Against Persons,1,0
+235,1313,1,assault-state,Assault causing minor bodily injury,other-crimes-against-persons,Other Crimes Against Persons,1,0
+236,1313,2,assault-dv,Assault causing minor bodily injury - domestic violence,other-crimes-against-persons,Other Crimes Against Persons,1,0
+52,1313,3,assault-police-simple,Assault causing minor bodily injury to a police officer,other-crimes-against-persons,Other Crimes Against Persons,1,0
+237,1314,0,agg-aslt-gun-other,Assault causing serious bodily injury using a gun,aggravated-assault,Aggravated Assault,1,0
+238,1314,1,weapon-fire-into-occ-veh,Weapon fired into an occupied vehicle,aggravated-assault,Aggravated Assault,1,0
+53,1314,2,weapon-fire-into-occ-bldg,Weapon fired into an occupied building,aggravated-assault,Aggravated Assault,1,0
+239,1315,0,aggravated-assault,Assault causing serious bodily injury,aggravated-assault,Aggravated Assault,1,0
+240,1315,1,aggravated-assault-dv,Assault causing serious bodily injury - domestic violence,aggravated-assault,Aggravated Assault,1,0
+241,1315,2,menacing-felony-w-weap,Threatening to imminently injure with a weapon,aggravated-assault,Aggravated Assault,1,0
+54,1315,5,weapon-flourishing,Flourishing a weapon at another person,aggravated-assault,Aggravated Assault,1,0
+242,1316,0,threats-to-injure,Threatening to injure,public-disorder,Public Disorder,1,0
+243,1316,1,harassment-stalking-dv,Harassment by stalking - domestic violence,public-disorder,Public Disorder,1,0
+55,1316,2,threats-city,Threatening to injure,public-disorder,Public Disorder,1,0
+56,2005,0,arson-business,Arson of a business,arson,Arson,1,0
+57,2006,0,arson-residence,Arson of a residence,arson,Arson,1,0
+58,2007,0,arson-other,Arson,arson,Arson,1,0
+59,2009,0,arson-public-building,Arson to a public building,arson,Arson,1,0
+60,2099,0,arson-vehicle,Arson of a vehicle,arson,Arson,1,0
+61,2101,0,extort-threat-inj-person,Extort-threaten to injure a person,all-other-crimes,All Other Crimes,1,0
+62,2199,0,extortion,Extortion - other,all-other-crimes,All Other Crimes,1,0
+63,2201,0,burglary-safe,Burglary of a safe,burglary,Burglary,1,0
+244,2202,0,burglary-residence-by-force,Burglary of a residence with forced entry,burglary,Burglary,1,0
+64,2202,1,burg-auto-theft-resd-w-force,Burglary and auto theft at a residence with forced entry,burglary,Burglary,1,0
+245,2203,0,burglary-business-by-force,Burglary of a business with forced entry,burglary,Burglary,1,0
+65,2203,1,burg-auto-theft-busn-w-force,Burglary and auto theft at a business with forced entry,burglary,Burglary,1,0
+246,2204,0,burglary-residence-no-force,Burglary of a residence without forced entry,burglary,Burglary,1,0
+66,2204,1,burg-auto-theft-resd-no-force,Burglary and auto theft at a residence without forced entry,burglary,Burglary,1,0
+247,2205,0,burglary-business-no-force,Burglary of a business without forced entry,burglary,Burglary,1,0
+67,2205,1,burg-auto-theft-busn-no-force,Burglary and auto theft at a business without forced entry,burglary,Burglary,1,0
+68,2206,0,burglary-poss-of-tools,Possession of burglary tools,burglary,Burglary,1,0
+69,2299,0,burglary-other,Burglary - other,burglary,Burglary,1,0
+70,2301,0,theft-pick-pocket,Pocketpicking,larceny,Larceny,1,0
+71,2302,0,theft-purse-snatch-no-force,Purse snatching without force,larceny,Larceny,1,0
+72,2303,0,theft-shoplift,Shoplifting,larceny,Larceny,1,0
+73,2304,0,theft-parts-from-vehicle,Theft of parts from a vehicle,theft-from-motor-vehicle,Theft from Motor Vehicle,1,0
+74,2305,0,theft-items-from-vehicle,Theft of items from a vehicle,theft-from-motor-vehicle,Theft from Motor Vehicle,1,0
+75,2307,0,burglary-vending-machine,Theft from a vending machine,larceny,Larceny,1,0
+76,2308,0,theft-from-bldg,Theft from a building,larceny,Larceny,1,0
+77,2309,0,theft-from-yards,Theft from a yard,larceny,Larceny,1,0
+78,2310,0,theft-from-mails,Theft from a mailbox,larceny,Larceny,1,0
+79,2311,0,larc-from-bank-type-inst,Theft from a bank,larceny,Larceny,1,0
+248,2399,0,theft-other,Theft - other,larceny,Larceny,1,0
+249,2399,1,theft-bicycle,Bicycle theft,larceny,Larceny,1,0
+250,2399,2,theft-gas-drive-off,Theft of fuel by driving off without paying,larceny,Larceny,1,0
+251,2399,3,theft-of-cable-services,Theft of cable services,larceny,Larceny,1,0
+252,2399,4,theft-stln-veh-const-eqpt,Theft of construction equipment,auto-theft,Auto Theft,1,0
+80,2399,5,theft-stln-vehicle-trailer,Theft of a trailer,auto-theft,Auto Theft,1,0
+81,2402,0,theft-vehicle-strip,Vehicle stolen and stripped,theft-from-motor-vehicle,Theft from Motor Vehicle,1,0
+82,2404,0,theft-of-motor-vehicle,Motor vehicle theft,auto-theft,Auto Theft,1,0
+83,2411,0,theft-motor-veh-joy-ride,Unauthorized use of a vehicle or joy ride,auto-theft,Auto Theft,1,0
+84,2501,0,forgery-checks,Forgery of checks,white-collar-crime,White Collar Crime,1,0
+253,2503,0,forgery-counterfeit-of-obj,Counterfeiting an object,white-collar-crime,White Collar Crime,1,0
+85,2503,1,altering-vin-number,Altering a vehicle VIN number,white-collar-crime,White Collar Crime,1,0
+86,2504,0,forgery-pass-forged-obj,Passing forged documents,white-collar-crime,White Collar Crime,1,0
+87,2505,0,forg-pass-counterfeit-obj,"Passing counterfeited objects (tickets, bonds, etc)",white-collar-crime,White Collar Crime,1,0
+254,2506,0,forgery-poss-of-forged-inst,Possession of a forged instrument,white-collar-crime,White Collar Crime,1,0
+88,2506,1,forgery-poss-of-forged-ftd,Possession of a forged financial transaction device (credit & debit cards),white-collar-crime,White Collar Crime,1,0
+89,2507,0,forg-poss-counterfeit-obj,"Possession of counterfeited objects (tickets, bonds, etc)",white-collar-crime,White Collar Crime,1,0
+90,2508,0,forgery-posses-forge-device,Possession of counterfeiting device,white-collar-crime,White Collar Crime,1,0
+255,2589,0,forgery-other,Forgery - other,white-collar-crime,White Collar Crime,1,0
+91,2589,1,drug-forgery-to-obtain,Forgery to obtain drugs,white-collar-crime,White Collar Crime,1,0
+92,2601,0,theft-confidence-game,Theft by confidence game,white-collar-crime,White Collar Crime,1,0
+256,2602,0,theft-of-rental-property,Theft of rental property,white-collar-crime,White Collar Crime,1,0
+93,2602,1,theft-fail-return-rent-veh,Failure to return rental vehicle,white-collar-crime,White Collar Crime,1,0
+257,2604,0,fraud-identity-theft,Identity theft,white-collar-crime,White Collar Crime,1,0
+258,2604,1,fraud-criminal-impersonation,Criminal impersonation,white-collar-crime,White Collar Crime,1,0
+259,2604,2,fraud-gather-id-info-deception,Gathering personal information by deception,white-collar-crime,White Collar Crime,1,0
+260,2604,3,fraud-possess-id-theft-tools,Possession of identity theft tools,white-collar-crime,White Collar Crime,1,0
+94,2604,4,impersonation-of-police,Police impersonation,white-collar-crime,White Collar Crime,1,0
+261,2605,0,theft-unauth-use-of-ftd,Unauthorized use of a financial transaction device,white-collar-crime,White Collar Crime,1,0
+95,2605,1,fraud-unauthorized-use-of-ftd,Unauthorized use of a financial transaction device,white-collar-crime,White Collar Crime,1,0
+96,2606,0,fraud-nsf-closed-account,Fraud by check due to insufficient funds,white-collar-crime,White Collar Crime,1,0
+97,2607,0,fraud-by-telephone,Fraud by telephone,white-collar-crime,White Collar Crime,1,0
+98,2608,0,fraud-by-wire,Fraud by wire,white-collar-crime,White Collar Crime,1,0
+99,2609,0,fraud-by-use-of-computer,Fraud by use of computer,white-collar-crime,White Collar Crime,1,0
+262,2699,0,fraud-other,Fraud - other,white-collar-crime,White Collar Crime,1,0
+263,2699,1,failure-to-pay-cab-fare,"Failure to pay cab, bus or rail fare",larceny,Larceny,1,0
+264,2699,2,theft-of-meals,Theft of meals,larceny,Larceny,1,0
+265,2699,3,theft-of-services,Theft of services,larceny,Larceny,1,0
+266,2699,4,drug-fraud-to-obtain,Fraud to obtain drugs,drug-alcohol,Drug & Alcohol,1,0
+100,2699,5,pawn-broker-viol,Pawn broker violation,all-other-crimes,All Other Crimes,1,0
+101,2701,0,embezzle-bus-property,Embezzlement of business property,white-collar-crime,White Collar Crime,1,0
+102,2799,0,theft-embezzle,Embezzlement by an employee,white-collar-crime,White Collar Crime,1,0
+103,2801,0,stolen-property-sale-of,Sale of stolen property,all-other-crimes,All Other Crimes,1,0
+104,2803,0,stolen-property-buy-sell-rec,"Buy, sell or receive stolen property",all-other-crimes,All Other Crimes,1,0
+105,2804,0,outside-steal-recovered-veh,Recovered vehicle stolen outside Denver,all-other-crimes,All Other Crimes,1,0
+267,2804,1,stolen-property-possession,Possession of stolen property,all-other-crimes,All Other Crimes,1,0
+268,2804,2,fraud-possess-financial-device,Possession of a financial device,all-other-crimes,All Other Crimes,1,0
+106,2901,0,damaged-prop-bus,Damaged business property,public-disorder,Public Disorder,1,0
+107,2902,0,criminal-mischief-private,Criminal mischief to private property,public-disorder,Public Disorder,1,0
+108,2903,0,criminal-mischief-public,Criminal mischief to public property,public-disorder,Public Disorder,1,0
+269,2999,0,criminal-mischief-other,Criminal mischief - other,public-disorder,Public Disorder,1,0
+270,2999,1,criminal-mischief-mtr-veh,Criminal mischief to a motor vehicle,public-disorder,Public Disorder,1,0
+109,2999,2,criminal-mischief-graffiti,Criminal mischief - graffiti,public-disorder,Public Disorder,1,0
+110,3501,0,drug-hallucinogen-mfr,Manufacture of a hallucinogenic drug,drug-alcohol,Drug & Alcohol,1,0
+111,3503,0,drug-hallucinogen-sell,Selling a hallucinogenic drug,drug-alcohol,Drug & Alcohol,1,0
+112,3504,0,drug-hallucinogen-possess,Possession of a hallucinogenic drug,drug-alcohol,Drug & Alcohol,1,0
+113,3510,0,drug-heroin-sell,Selling heroin,drug-alcohol,Drug & Alcohol,1,0
+114,3512,0,drug-heroin-possess,Possession of heroin,drug-alcohol,Drug & Alcohol,1,0
+115,3520,0,drug-opium-or-deriv-sell,Selling opium or an opium derivative,drug-alcohol,Drug & Alcohol,1,0
+116,3522,0,drug-opium-or-deriv-possess,Possession of opium or an opium derivative,drug-alcohol,Drug & Alcohol,1,0
+117,3530,0,drug-cocaine-sell,Selling cocaine,drug-alcohol,Drug & Alcohol,1,0
+118,3532,0,drug-cocaine-possess,Possession of cocaine,drug-alcohol,Drug & Alcohol,1,0
+119,3540,0,drug-synth-narcotic-sell,Selling a synthetic narcotic drug,drug-alcohol,Drug & Alcohol,1,0
+120,3542,0,drug-synth-narcotic-possess,Possession of a synthetic narcotic drug,drug-alcohol,Drug & Alcohol,1,0
+121,3550,0,drug-poss-paraphernalia,Possession of drug paraphernalia,drug-alcohol,Drug & Alcohol,1,0
+122,3560,0,drug-marijuana-sell,Selling marijuana,drug-alcohol,Drug & Alcohol,1,0
+123,3562,0,drug-marijuana-possess,Possession of marijuana,drug-alcohol,Drug & Alcohol,1,0
+124,3563,0,drug-marijuana-cultivation,Cultivation of marijuana,drug-alcohol,Drug & Alcohol,1,0
+125,3570,0,drug-methamphetamine-mfr,Manufacture of methampetamine,drug-alcohol,Drug & Alcohol,1,0
+126,3571,0,drug-methampetamine-sell,Selling methampetamine,drug-alcohol,Drug & Alcohol,1,0
+127,3572,0,drug-methampetamine-possess,Possession of methampetamine,drug-alcohol,Drug & Alcohol,1,0
+128,3580,0,drug-barbiturate-mfr,Manufacture of a barbiturate,drug-alcohol,Drug & Alcohol,1,0
+129,3581,0,drug-barbiturate-sell,Selling a barbiturate,drug-alcohol,Drug & Alcohol,1,0
+130,3582,0,drug-barbiturate-possess,Possession of a barbiturate,drug-alcohol,Drug & Alcohol,1,0
+271,3599,0,drug-pcs-other-drug,Other dangerous drugs - PCS,drug-alcohol,Drug & Alcohol,1,0
+131,3599,1,drug-make-sell-other-drug,Manufacture or sell other dangerous drugs,drug-alcohol,Drug & Alcohol,1,0
+132,3601,1,sex-aslt-fondle-adult-victim,Fondling of an adult,sexual-assault,Sexual Assault,1,0
+133,3605,0,indecent-exposure,Indecent exposure,other-crimes-against-persons,Other Crimes Against Persons,1,0
+134,3607,0,sex-off-incest-with-adult,Incest with an adult,other-crimes-against-persons,Other Crimes Against Persons,1,0
+135,3611,0,window-peeping,Window Peeping,other-crimes-against-persons,Other Crimes Against Persons,1,0
+136,3612,0,sex-off-fail-to-register,Failure to register as a sex offender,all-other-crimes,All Other Crimes,1,0
+137,3613,0,sex-off-registration-viol,Sex offender registration violation,all-other-crimes,All Other Crimes,1,0
+138,3615,0,indecent-exposure-to-adult,Indecent exposure to an adult,other-crimes-against-persons,Other Crimes Against Persons,1,0
+139,3699,0,sex-off-other,Sex offense - other,other-crimes-against-persons,Other Crimes Against Persons,1,0
+140,3700,0,obscene-material-possess,Possession of obscene material,other-crimes-against-persons,Other Crimes Against Persons,1,0
+141,3701,0,obscene-material-mfr,Manufacture of obscene material,other-crimes-against-persons,Other Crimes Against Persons,1,0
+142,3799,0,other-obscenity-crime,Other obscenity crime,other-crimes-against-persons,Other Crimes Against Persons,1,0
+143,3804,0,bigamy,Bigamy,all-other-crimes,All Other Crimes,1,0
+144,3902,0,gambling-card-game-operating,Operating a gambling card game,all-other-crimes,All Other Crimes,1,0
+145,3905,0,gambling-dice-game-operating,Operating a gambling dice game,all-other-crimes,All Other Crimes,1,0
+146,3908,0,gambling-possess-gamb-device,Possession of a gambling device,all-other-crimes,All Other Crimes,1,0
+147,3911,0,gambling-device,Running a gambling operation,all-other-crimes,All Other Crimes,1,0
+148,3915,0,gambling-lottery-operating,Running an illegal lottery,all-other-crimes,All Other Crimes,1,0
+149,3919,0,gambling-sports-tampering,Tampering with sports,all-other-crimes,All Other Crimes,1,0
+150,3990,0,gambling-betting-wagering,Gambling - betting or wagering,white-collar-crime,White Collar Crime,1,0
+151,3991,0,gambling-gaming-operation,Gambling - gaming operation,all-other-crimes,All Other Crimes,1,0
+152,3999,0,gambling-illegal,Illegal gambling,all-other-crimes,All Other Crimes,1,0
+153,4001,0,prostitution-keep-a-house-of,Keeping a house of prostitution,public-disorder,Public Disorder,1,0
+272,4002,0,prostitution-procure-for,"Procure for prostitution (trafficking, operating a bordelo)",public-disorder,Public Disorder,1,0
+154,4002,1,prostitution-pimping,Pimping for prostitution,public-disorder,Public Disorder,1,0
+273,4004,0,prostitution-engaging-in,Engaging in prostitution,public-disorder,Public Disorder,1,0
+155,4004,1,prostitution,Prostitution,public-disorder,Public Disorder,1,0
+274,4099,0,prostitution-aiding,Aiding the act of prostitution,public-disorder,Public Disorder,1,0
+156,4099,1,prostituion-display-for,Display for prostitution,public-disorder,Public Disorder,1,0
+157,4101,0,liquor-manufacturing,Manufacture of liquor,drug-alcohol,Drug & Alcohol,1,0
+158,4102,0,liquor-sell,Illegal sale of liquor,drug-alcohol,Drug & Alcohol,1,0
+159,4104,0,liquor-possession,Illegal possession of liquor,drug-alcohol,Drug & Alcohol,1,0
+160,4105,0,liquor-misrepresent-age-minor,Liquor law violation,drug-alcohol,Drug & Alcohol,1,0
+161,4199,0,liquor-other-viol,Liquor law violation - other,drug-alcohol,Drug & Alcohol,1,0
+162,4200,0,public-intoxication,Public intoxication,drug-alcohol,Drug & Alcohol,1,0
+163,4801,0,police-resisting-arrest,Resisting arrest,all-other-crimes,All Other Crimes,1,0
+164,4802,0,police-obstruct-investigation,Obstruction of a criminal investigation,all-other-crimes,All Other Crimes,1,0
+275,4803,0,police-false-information,Giving false information to police,all-other-crimes,All Other Crimes,1,0
+165,4803,1,police-making-a-false-rpt,Making a false report to police,all-other-crimes,All Other Crimes,1,0
+166,4807,0,police-refusing-aid-to,Refusing to aid an officer,all-other-crimes,All Other Crimes,1,0
+167,4812,0,failure-to-report-abuse,Failure to report abuse,all-other-crimes,All Other Crimes,1,0
+168,4813,0,police-disobey-lawful-order,Failure to obey a lawful order by police,all-other-crimes,All Other Crimes,1,0
+169,4899,0,police-interference,Obstructing police,all-other-crimes,All Other Crimes,1,0
+170,4901,0,escape,Escape of a prisoner,all-other-crimes,All Other Crimes,1,0
+171,4903,0,escape-aiding,Aiding the escape of a prisoner,all-other-crimes,All Other Crimes,1,0
+172,4999,0,escape-other,Escape or flight,all-other-crimes,All Other Crimes,1,0
+173,5006,0,intimidation-of-a-witness,Intimidation of a witness,all-other-crimes,All Other Crimes,1,0
+174,5007,0,obstruct-jud-court-order-vio,Obstructing a court order,all-other-crimes,All Other Crimes,1,0
+175,5011,0,parole-violation,Parole violation,all-other-crimes,All Other Crimes,1,0
+176,5012,0,probation-violation,Probation violation,all-other-crimes,All Other Crimes,1,0
+177,5015,0,failure-to-appear,Failure to appear,all-other-crimes,All Other Crimes,1,0
+276,5016,0,violation-of-restraining-order,Violation of a restraining order,all-other-crimes,All Other Crimes,1,0
+277,5016,1,violation-of-court-order,Violation of a court order,all-other-crimes,All Other Crimes,1,0
+178,5016,2,violation-of-custody-order,Violation of a court order,all-other-crimes,All Other Crimes,1,0
+179,5099,0,obstructing-govt-operation,Obstruction of a government operation,all-other-crimes,All Other Crimes,1,0
+180,5104,0,bribery,Bribery,all-other-crimes,All Other Crimes,1,0
+181,5201,0,weapon-altering-serial-number,Altering the serial number,all-other-crimes,All Other Crimes,1,0
+182,5202,0,weapon-carrying-concealed,Carrying a concealed weapon,all-other-crimes,All Other Crimes,1,0
+183,5203,0,weapon-carrying-prohibited,Carrying a prohibited weapon,all-other-crimes,All Other Crimes,1,0
+184,5206,0,explosive-incendiary-dev-use,Using an explosive/incendiary device,all-other-crimes,All Other Crimes,1,0
+185,5207,0,explosives-posses,Possession of an explosive,all-other-crimes,All Other Crimes,1,0
+186,5211,0,explosive-incendiary-dev-pos,Possession of an explosive/incendiary device,all-other-crimes,All Other Crimes,1,0
+278,5212,0,weapon-poss-illegal-dangerous,Possession of an illegal/dangerous weapon,all-other-crimes,All Other Crimes,1,0
+187,5212,1,weapon-by-prev-offender-powpo,Possession of a weapon - POWPO,all-other-crimes,All Other Crimes,1,0
+279,5213,0,weapon-unlawful-discharge-of,Unlawful discharge of a weapon,all-other-crimes,All Other Crimes,1,0
+188,5213,1,weapon-flourishing,Flourishing of a weapon,all-other-crimes,All Other Crimes,1,0
+189,5214,0,weapon-unlawful-sale,Unlawful sale of a weapon,all-other-crimes,All Other Crimes,1,0
+190,5215,0,bomb-threat,Bomb threat,all-other-crimes,All Other Crimes,1,0
+191,5299,0,weapon-other-viol,Weapon - other,all-other-crimes,All Other Crimes,1,0
+192,5302,0,riot-incite,Inciting a riot,public-disorder,Public Disorder,1,0
+193,5303,0,riot,Engaging in  a riot,public-disorder,Public Disorder,1,0
+194,5305,0,police-interference,Police Interference,all-other-crimes,All Other Crimes,1,0
+195,5307,0,riot-unlawful-assembly,Unlawful assembly,all-other-crimes,All Other Crimes,1,0
+280,5309,0,harassment,Harassment,public-disorder,Public Disorder,1,0
+281,5309,1,harassment-dv,Harassment - DV,public-disorder,Public Disorder,1,0
+282,5309,2,harassment-obscene,Obscene harassment,public-disorder,Public Disorder,1,0
+196,5309,3,harassment-sexual-in-nature,Harassment - sexual in nature,public-disorder,Public Disorder,1,0
+197,5310,0,pub-peace-desecrate-symb,Desecrating the flag,all-other-crimes,All Other Crimes,1,0
+198,5311,0,public-fighting,Public fighting,all-other-crimes,All Other Crimes,1,0
+199,5312,0,disturbing-the-peace,Disturbing the peace,public-disorder,Public Disorder,1,0
+200,5313,0,curfew,Curfew,public-disorder,Public Disorder,1,0
+201,5314,0,loitering,Loitering,public-disorder,Public Disorder,1,0
+202,5315,0,public-peace-vagrancy,Vagrancy,public-disorder,Public Disorder,1,0
+203,5399,0,public-peace-other,Public  peace - other,public-disorder,Public Disorder,1,0
+204,5401,0,traffic-accident-hit-and-run,Traffic accident - hit and run,traffic-accident,Traffic Accident,0,1
+205,5420,0,traffic-accident-dui-duid,Traffic accident - DUI-DUID,traffic-accident,Traffic Accident,0,1
+283,5441,0,traffic-accident,Traffic accident,traffic-accident,Traffic Accident,0,1
+284,5441,1,traffic-accident-sbi,Traffic accident - SBI,traffic-accident,Traffic Accident,0,1
+285,5441,2,traffic-accident-fatal,Traffic accident - Fatal,traffic-accident,Traffic Accident,0,1
+206,5441,3,traffic-accident-police,Traffic accident - Police,traffic-accident,Traffic Accident,0,1
+207,5444,0,traf-habitual-offender,Habitual traffic offender,all-other-crimes,All Other Crimes,1,0
+208,5450,0,traf-vehicular-homicide,Vehicular homicide,murder,Murder,1,1
+209,5454,0,traf-impound-vehicle,Impound abandoned vehicle on right-of-way,all-other-crimes,All Other Crimes,1,0
+210,5455,0,traf-vehicular-assault,Vehicular assault,all-other-crimes,All Other Crimes,1,1
+286,5499,0,traf-other,Traffic offense - other,all-other-crimes,All Other Crimes,1,0
+287,5499,1,vehicular-eluding,Vehicular eluding,all-other-crimes,All Other Crimes,1,0
+211,5499,2,vehicular-eluding-no-chase,Vehicular eluding - no chase,all-other-crimes,All Other Crimes,1,0
+212,5599,0,health-violations,Health & safety violations,all-other-crimes,All Other Crimes,1,0
+213,5704,0,eavesdropping,Eavesdropping,all-other-crimes,All Other Crimes,1,0
+214,5707,0,criminal-trespassing,Criminal trespassing,all-other-crimes,All Other Crimes,1,0
+215,5799,0,wiretapping,Wiretapping,all-other-crimes,All Other Crimes,1,0
+216,5801,0,contraband-possession,Possession of contraband,all-other-crimes,All Other Crimes,1,0
+217,5802,0,contraband-into-prison,Smuggle contraband to prisoner,all-other-crimes,All Other Crimes,1,0
+218,5999,0,election-law-violation,Election laws violation,all-other-crimes,All Other Crimes,1,0
+219,6110,0,money-laundering,Money laundering,all-other-crimes,All Other Crimes,1,0
+220,6199,0,tax-violations,Tax revenue violation,all-other-crimes,All Other Crimes,1,0
+221,6201,0,animal-cruelty-to,Cruelty to animals,all-other-crimes,All Other Crimes,1,0
+222,6205,0,illegal-dumping,Illegal dumping,all-other-crimes,All Other Crimes,1,0
+288,6299,0,other-conservation-crime,Other conversation offense,all-other-crimes,All Other Crimes,1,0
+289,6299,1,littering,Littering,all-other-crimes,All Other Crimes,1,0
+290,6299,2,other-enviornment-animal-viol,Other environmental or animal offense,all-other-crimes,All Other Crimes,1,0
+223,6299,3,animal-poss-of-dangerous,Possession of a dangerous animal,all-other-crimes,All Other Crimes,1,0
+224,6300,0,money-laundering,Money laundering,all-other-crimes,All Other Crimes,1,0
+291,7099,0,crimes-against-person-other,Crimes against a person - other,all-other-crimes,All Other Crimes,1,0
+292,7099,1,homicide-conspiracy,Conspiracy to commit homicide,all-other-crimes,All Other Crimes,1,0
+293,7099,2,homicide-solicitation,Solicitation to commit homicide,all-other-crimes,All Other Crimes,1,0
+294,7099,3,reckless-endangerment,Reckless endangerment,all-other-crimes,All Other Crimes,1,0
+295,7099,4,disarming-a-peace-officer,Disarming a peace officer,all-other-crimes,All Other Crimes,1,0
+225,7099,5,homicide-accessory-to,Accessory to commit homicide,all-other-crimes,All Other Crimes,1,0
+296,7199,0,property-crimes-other,Property crimes - other,all-other-crimes,All Other Crimes,1,0
+226,7199,1,property-crimes-other,Property crimes - other,all-other-crimes,All Other Crimes,1,0
+227,7299,0,morals-other-moral-off,Morals / decency offense - other,all-other-crimes,All Other Crimes,1,0
+297,7399,0,public-order-crimes-other,Public order offense - other,all-other-crimes,All Other Crimes,1,0
+298,7399,1,fireworks-possession,Possession of fireworks,all-other-crimes,All Other Crimes,1,0
+299,7399,2,public-order-crimes-other,Public order offense - other,all-other-crimes,All Other Crimes,1,0
+228,7399,3,accessory-conspiracy-to-crime,Accessory / conspiracy to crime,all-other-crimes,All Other Crimes,1,0
